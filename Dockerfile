@@ -1,7 +1,7 @@
 # This script builds a docker image from Odoo 8.0 nightly build in Ubuntu 14.04
 
 FROM ubuntu:14.04
-MAINTAINER Ying Liu - www.MindIsSoftware.com 
+MAINTAINER Ying Liu - www.MindIsSoftware.com ,edit by anndream.com
 
 # This is the account name created by Odoo setup
 ENV ODOO_USER odoo
